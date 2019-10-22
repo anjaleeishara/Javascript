@@ -1,0 +1,1 @@
+How to varify e-mail address using javascript
